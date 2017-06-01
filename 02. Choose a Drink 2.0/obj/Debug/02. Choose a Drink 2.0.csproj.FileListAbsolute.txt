@@ -1,0 +1,6 @@
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe.config
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.exe
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\02. Choose a Drink 2.0\bin\Debug\_02.Choose_a_Drink_2._0.pdb
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\02. Choose a Drink 2.0\obj\Debug\02. Choose a Drink 2.0.csprojResolveAssemblyReference.cache
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.exe
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\02. Choose a Drink 2.0\obj\Debug\_02.Choose_a_Drink_2._0.pdb

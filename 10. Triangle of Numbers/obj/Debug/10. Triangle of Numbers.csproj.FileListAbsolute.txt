@@ -1,0 +1,6 @@
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe.config
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.exe
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\_10.Triangle_of_Numbers.pdb
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.exe
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\_10.Triangle_of_Numbers.pdb
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\10. Triangle of Numbers.csprojResolveAssemblyReference.cache

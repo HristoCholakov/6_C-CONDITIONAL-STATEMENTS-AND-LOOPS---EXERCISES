@@ -1,0 +1,6 @@
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\4. Hotel\bin\Debug\_4.Hotel.exe.config
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\4. Hotel\bin\Debug\_4.Hotel.exe
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\4. Hotel\bin\Debug\_4.Hotel.pdb
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\4. Hotel\obj\Debug\4. Hotel.csprojResolveAssemblyReference.cache
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\4. Hotel\obj\Debug\_4.Hotel.exe
+D:\SoftUni\2\techmodule\6_C CONDITIONAL STATEMENTS AND LOOPS - EXERCISES\4. Hotel\obj\Debug\_4.Hotel.pdb
